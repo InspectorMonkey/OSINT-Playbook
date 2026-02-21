@@ -67,6 +67,51 @@
 
 ---
 
+## 🕵️ Cybercriminal Ecosystems / Écosystèmes cybercriminels
+
+**EN** — Before data appears in public breach databases, it circulates in cybercriminal ecosystems. Monitoring these sources gives earlier visibility on active leaks and threat actors.
+
+**FR** — Avant d'apparaître dans les bases publiques, les données circulent dans les écosystèmes cybercriminels. Surveiller ces sources permet une visibilité anticipée sur les fuites actives et les acteurs malveillants.
+
+### Key Platforms / Plateformes clés
+
+| Platform | Type | Usage |
+|----------|------|-------|
+| Telegram channels | Messaging | Primary vector for data leaks and sales |
+| RaidForums / BreachForums | Forums | Leaked data trading and sharing |
+| XSS.is / Exploit.in | Russian forums | High-level cybercriminal activity |
+| Dark web marketplaces | .onion sites | Credential and data sales |
+| Paste sites (Pastebin, GhostBin) | Paste | Rapid public data dumps |
+
+### Monitoring Methodology / Méthodologie de surveillance
+
+**EN**
+1. Identify relevant Telegram channels for your target sector
+2. Monitor paste sites regularly for domain or email mentions
+3. Set up alerts on IntelX for target domains and keywords
+4. Track known cybercriminal forums for mentions of target organizations
+5. Cross-reference with HaveIBeenPwned and DeHashed for validation
+6. Document findings immediately — content disappears fast
+
+**FR**
+1. Identifier les canaux Telegram pertinents pour votre secteur cible
+2. Surveiller régulièrement les sites de paste pour les mentions de domaines ou emails
+3. Configurer des alertes sur IntelX pour les domaines et mots-clés cibles
+4. Suivre les forums cybercriminels connus pour les mentions d'organisations cibles
+5. Recouper avec HaveIBeenPwned et DeHashed pour validation
+6. Documenter immédiatement — le contenu disparaît vite
+
+### 🚩 Early Warning Signs / Signaux d'alerte précoces
+
+| Signal | Implication |
+|--------|-------------|
+| Corporate data advertised on forums | Active breach in progress |
+| Credentials posted on Telegram | Imminent exploitation risk |
+| Domain mentioned in paste sites | Data leak or reconnaissance |
+| Employee emails in fresh dumps | Targeted phishing risk |
+
+---
+
 ## ⚠️ Ethics & Legality / Éthique & Légalité
 
 **EN** — Breach data must only be used for investigative or defensive purposes. Never exploit, redistribute or use credentials for unauthorized access. Always operate within applicable law.

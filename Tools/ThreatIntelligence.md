@@ -6,19 +6,19 @@
 
 ## 🛠️ Tools / Outils
 
-| Tool | Usage | Link |
-|------|-------|------|
-| IntelX | Search dark web, forums, paste sites | [intelx.io](https://intelx.io) |
-| Shodan | Identify exposed infrastructure and IoT | [shodan.io](https://www.shodan.io) |
-| VirusTotal | File, URL and domain reputation analysis | [virustotal.com](https://www.virustotal.com) |
-| MalwareBazaar | Malware samples and IOC database | [bazaar.abuse.ch](https://bazaar.abuse.ch) |
-| URLScan | Website scanning and behavior analysis | [urlscan.io](https://urlscan.io) |
-| AbuseIPDB | IP reputation and abuse reporting | [abuseipdb.com](https://www.abuseipdb.com) |
-| OTX AlienVault | Open threat intelligence community | [otx.alienvault.com](https://otx.alienvault.com) |
-| MISP | Threat intelligence sharing platform | [misp-project.org](https://www.misp-project.org) |
-| Maltego | Actor and infrastructure mapping | [maltego.com](https://www.maltego.com) |
-| Recorded Future | Real-time threat intelligence (paid) | [recordedfuture.com](https://www.recordedfuture.com) |
-| DarkBeast | Dark web monitoring and search | [darkbeast.io](https://darkbeast.io) |
+| Tool | Usage | Usages | Link |
+|------|-------|--------|------|
+| IntelX | Search dark web, forums, paste sites | Recherches sur le darkweb, ses forums et ses paste sites | [intelx.io](https://intelx.io) |
+| Shodan | Identify exposed infrastructure and IoT | Identifie les infrastructures et objets connectés exposés | [shodan.io](https://www.shodan.io) |
+| VirusTotal | File, URL and domain reputation analysis | Analyse de la réputations de fichiers, URL et noms de domaine | [virustotal.com](https://www.virustotal.com) |
+| MalwareBazaar | Malware samples and IOC database | Échantillons de malware et bases de données d’indicateurs de compromission | [bazaar.abuse.ch](https://bazaar.abuse.ch) |
+| URLScan | Website scanning and behavior analysis | Analyse du comportement des sites web et scan de sécurité | [urlscan.io](https://urlscan.io) |
+| AbuseIPDB | IP reputation and abuse reporting | Analyse de la réputation des adresses IP et signalement des abus | [abuseipdb.com](https://www.abuseipdb.com) |
+| OTX AlienVault | Open threat intelligence community | Communauté ouverte de renseignement sur les menaces | [otx.alienvault.com](https://otx.alienvault.com) |
+| MISP | Threat intelligence sharing platform | Plateforme de partage de renseignement sur les menaces | [misp-project.org](https://www.misp-project.org) |
+| Maltego | Actor and infrastructure mapping | Cartographie des acteurs et des infrastructures | [maltego.com](https://www.maltego.com) |
+| Recorded Future | Real-time threat intelligence | Renseignement sur les menaces en temps réel | [recordedfuture.com](https://www.recordedfuture.com) |
+| DarkBeast | Dark web monitoring and search | Veille et recherche sur le Dark Web |  [darkbeast.io](https://darkbeast.io) |
 
 ---
 

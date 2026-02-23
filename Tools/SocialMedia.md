@@ -6,15 +6,15 @@
 
 ## 🛠️ Tools / Outils
 
-| Tool | Usage | Link |
+| Tool | Usage | Usages | Link |
 |------|-------|------|
-| Sherlock | Username search across 300+ platforms | [GitHub](https://github.com/sherlock-project/sherlock) |
-| Maigret | Advanced profiling by username | [GitHub](https://github.com/soxoj/maigret) |
-| Holehe | Check if email is linked to accounts | [GitHub](https://github.com/megadose/holehe) |
-| Maltego | Relationship mapping and pivoting | [maltego.com](https://www.maltego.com) |
-| Social-Analyzer | Multi-platform profile analysis | [GitHub](https://github.com/qeeqbox/social-analyzer) |
-| Instaloader | Instagram data extraction | [GitHub](https://github.com/instaloader/instaloader) |
-| Twint | Twitter/X scraping without API | [GitHub](https://github.com/twintproject/twint) |
+| Sherlock | Username search across 300+ platforms | Recherche de pseudos sur plus de 300 plateformes | [GitHub](https://github.com/sherlock-project/sherlock) |
+| Maigret | Advanced profiling by username | Profiling avancé à partir des pseudos | [GitHub](https://github.com/soxoj/maigret) |
+| Holehe | Check if email is linked to accounts | Vérifie la concordance entre un pseudo et un email | [GitHub](https://github.com/megadose/holehe) |
+| Maltego | Relationship mapping and pivoting | Cartographie des relations et des informations cruciales | [maltego.com](https://www.maltego.com) |
+| Social-Analyzer | Multi-platform profile analysis | Analyse de profils multiplateforme | [GitHub](https://github.com/qeeqbox/social-analyzer) |
+| Instaloader | Instagram data extraction | Extraction de données de profils Instagram | [GitHub](https://github.com/instaloader/instaloader) |
+| Twint | Twitter/X scraping without API | Scraping de données sans API sur Twitter/X | [GitHub](https://github.com/twintproject/twint) |
 
 ---
 

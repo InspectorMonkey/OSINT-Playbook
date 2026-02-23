@@ -163,21 +163,21 @@ OSINT-Playbook/
 
 ## 🔗 Detailed Pages / Pages détaillées
 
-| Domain | Link |
-|--------|------|
-| 📱 Social Media | [Tools/SocialMedia.md](Tools/SocialMedia.md) |
-| 🌑 Dark Web | [Tools/DarkWeb.md](Tools/DarkWeb.md) |
-| 🌍 Geolocation / IMINT | [Tools/Geolocation.md](Tools/Geolocation.md) |
-| 📰 Open Sources | [Tools/OpenSources.md](Tools/OpenSources.md) |
-| ⚓ Maritime | [Tools/Maritime.md](Tools/Maritime.md) |
-| 💰 Crypto | [Tools/Crypto.md](Tools/Crypto.md) |
-| 💻 Cyber & Data Breaches | [Tools/CyberBreaches.md](Tools/CyberBreaches.md) |
-| 🏢 Corporate Intelligence | [Tools/CorporateIntelligence.md](Tools/CorporateIntelligence.md) |
-| 🎯 Threat Intelligence | [Tools/ThreatIntelligence.md](Tools/ThreatIntelligence.md) |
-| 📞 Phone & Telecom | [Tools/PhoneTelecom.md](Tools/PhoneTelecom.md) |
-| 🖼️ Image & Metadata | [Tools/ImageMetadata.md](Tools/ImageMetadata.md) |
-| 📢 Disinformation & Influence Ops | [Tools/Disinformation.md](Tools/Disinformation.md) |
-| ✈️ Aviation | [Tools/Aviation.md](Tools/Aviation.md) |
+| Domain | EN | FR | Link |
+|--------|----|----|------|
+| 📱 Social Media | Identify and profile individuals through their online presence, usernames and accounts | Identifier et profiler des individus via leur présence en ligne, pseudos et comptes | [Tools/SocialMedia.md](Tools/SocialMedia.md) |
+| 🌑 Dark Web | Monitor hidden networks for illicit activity, data leaks and threat actor communications | Surveiller les réseaux cachés pour détecter activités illicites, fuites de données et communications d'acteurs malveillants | [Tools/DarkWeb.md](Tools/DarkWeb.md) |
+| 🌍 Geolocation / IMINT | Locate and verify places, events and individuals through imagery and visual analysis | Localiser et vérifier des lieux, événements et individus via l'analyse d'images et de visuels | [Tools/Geolocation.md](Tools/Geolocation.md) |
+| 📰 Open Sources | Extract intelligence from publicly available sources, registries and web archives | Extraire du renseignement depuis les sources publiques, registres et archives web | [Tools/OpenSources.md](Tools/OpenSources.md) |
+| ⚓ Maritime | Track vessels, identify ownership structures and detect sanctions evasion at sea | Suivre les navires, identifier les structures de propriété et détecter les contournements de sanctions en mer | [Tools/Maritime.md](Tools/Maritime.md) |
+| 💰 Crypto | Trace blockchain transactions, identify wallets and follow illicit financial flows | Tracer les transactions blockchain, identifier les portefeuilles et suivre les flux financiers illicites | [Tools/Crypto.md](Tools/Crypto.md) |
+| 💻 Cyber & Data Breaches | Detect exposed credentials, monitor data leaks and investigate cybercriminal ecosystems | Détecter les credentials exposés, surveiller les fuites de données et investiguer les écosystèmes cybercriminels | [Tools/CyberBreaches.md](Tools/CyberBreaches.md) |
+| 🏢 Corporate Intelligence | Map corporate structures, identify beneficial owners and detect financial irregularities | Cartographier les structures corporate, identifier les bénéficiaires effectifs et détecter les irrégularités financières | [Tools/CorporateIntelligence.md](Tools/CorporateIntelligence.md) |
+| 🎯 Threat Intelligence | Identify threat actors, analyze TTPs and monitor malicious infrastructure | Identifier les acteurs malveillants, analyser les TTPs et surveiller les infrastructures malveillantes | [Tools/ThreatIntelligence.md](Tools/ThreatIntelligence.md) |
+| 📞 Phone & Telecom | Investigate phone numbers, identify carriers and link numbers to identities | Investiguer les numéros de téléphone, identifier les opérateurs et relier les numéros à des identités | [Tools/PhoneTelecom.md](Tools/PhoneTelecom.md) |
+| 🖼️ Image & Metadata | Analyze image authenticity, extract metadata and detect deepfakes | Analyser l'authenticité des images, extraire les métadonnées et détecter les deepfakes | [Tools/ImageMetadata.md](Tools/ImageMetadata.md) |
+| 📢 Disinformation & Influence Ops | Detect coordinated inauthentic behavior, trace narrative origins and identify bot networks | Détecter les comportements inauthentiques coordonnés, tracer l'origine des narratifs et identifier les réseaux de bots | [Tools/Disinformation.md](Tools/Disinformation.md) |
+| ✈️ Aviation | Track aircraft, identify owners and detect sanctions evasion through private aviation | Suivre les aéronefs, identifier les propriétaires et détecter les contournements de sanctions via l'aviation privée | [Tools/Aviation.md](Tools/Aviation.md) |
 
 ---
 

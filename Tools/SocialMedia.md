@@ -49,10 +49,10 @@
 
 **FR**
 - Documente toujours tes étapes avec des horodatages
--Fais des captures d’écran et archive avant qu’un profil ne disparaisse
--Un pseudo réutilisé sur plusieurs plateformes est une source d'information cruciale
--Vérifie les métadonnées des photos de profil (ExifTool)
--Recherche les comptes liés dans les bios et les commentaires
+- Fais des captures d’écran et archive avant qu’un profil ne disparaisse
+- Un pseudo réutilisé sur plusieurs plateformes est une source d'information cruciale
+- Vérifie les métadonnées des photos de profil (ExifTool)
+- Recherche les comptes liés dans les bios et les commentaires
 
 ---
 

@@ -34,18 +34,19 @@
 7. Produce an actionable threat report with TTPs (Tactics, Techniques, Procedures)
 
 **FR**
-1. Définir la menace — acteur, campagne, famille de malware ou IOC
-2. Collecter les IOCs — IPs, domaines, hashes, adresses email
+1. Définir la menace : acteur, campagne, famille de malware ou IOC
+2. Collecter les IOCs : IPs, domaines, hashes, adresses email
 3. Rechercher sur les plateformes de threat intelligence (OTX, VirusTotal, MalwareBazaar)
-4. Cartographier l'infrastructure — identifier les domaines liés, IPs et patterns d'hébergement
+4. Cartographier l'infrastructure : identifier les domaines liés, IPs et patterns d'hébergement
 5. Surveiller les forums et canaux dark web pour les mentions
-6. Attribuer si possible — lier à des acteurs ou groupes de menace connus
+6. Attribution si possible : établir un lien avec des acteurs ou groupes de menace connus
 7. Produire un rapport de menace exploitable avec les TTPs (Tactiques, Techniques, Procédures)
 
 ---
 
 ## 💡 MITRE ATT&CK Framework
 
+**ENG**
 | Tactic | Description |
 |--------|-------------|
 | Reconnaissance | Gathering info before attack |
@@ -56,12 +57,25 @@
 | Defense Evasion | Avoiding detection |
 | Exfiltration | Stealing data |
 
+**FR**
+| Tactique | Description |
+| -------- | ----------- |
+| Reconnaissance | Collecte d’informations avant une attaque |
+| Développement de ressources | Mise en place de l’infrastructure |
+| Accès initial | Point d’entrée dans la cible |
+| Exécution | Exécution de code malveillant |
+| Persistance | Maintien de l’accès |
+| Évasion des défenses | Contournement des mécanismes de détection |
+| Exfiltration | Vol de données |
+
+
 > Full framework : [attack.mitre.org](https://attack.mitre.org)
 
 ---
 
 ## 🚩 Key Red Flags / Signaux d'alerte
 
+**ENG** 
 | Red Flag | Possible Implication |
 |----------|---------------------|
 | IP flagged on multiple threat feeds | Active malicious infrastructure |
@@ -70,16 +84,34 @@
 | Actor mentioned on dark web forums | Planned or active campaign |
 | Reuse of infrastructure across campaigns | Same threat actor |
 
+**FR**
+| Alerte | Implication possible |
+| ------ | -------------------- |
+| IP signalée sur plusieurs flux de menaces | Infrastructure malveillante active |
+| Domaine récemment enregistré avec protection de la vie privée | Potentiel phishing ou serveur de commande et contrôle (C2) |
+| Hash correspondant à une famille de malware connue | Déploiement actif de malware |
+| Acteur mentionné sur des forums du dark web | Campagne planifiée ou en cours |
+| Réutilisation d’infrastructures à travers plusieurs campagnes | Même acteur de menace |                       
+
 ---
 
 ## 💡 Tips & Good Practices / Conseils
 
-- IOCs have a shelf life — always check the date of the intelligence
-- Attribution is hard — never over-attribute without strong evidence
+**ENG**
+- IOCs have a shelf life, always check the date of the intelligence
+- Attribution is hard : never over-attribute without strong evidence
 - Correlate multiple sources before drawing conclusions
 - MITRE ATT&CK is your best framework for structuring TTPs
-- Monitor Telegram channels — threat actors increasingly use them to leak data and communicate
-- False flags are common — state-sponsored actors often mimic other groups
+- Monitor Telegram channels, threat actors increasingly use them to leak data and communicate
+- False flags are common : state-sponsored actors often mimic other groups
+
+**FR**
+- Les IOC ont une durée de validité. Vérifie toujours la date des renseignements
+- L’attribution est difficile : ne surattribue jamais sans preuves solides
+- Corrèle plusieurs sources avant de tirer des conclusions
+- MITRE ATT&CK est le meilleur cadre pour structurer les TTP (Tactiques, Techniques, Procédures)
+- Surveille les chaînes Telegram, les acteurs de menace les utilisent de plus en plus pour divulguer des données et communiquer
+- Les fausses pistes sont fréquentes : les acteurs sponsorisés par des États imitent souvent d’autres groupes
 
 ---
 

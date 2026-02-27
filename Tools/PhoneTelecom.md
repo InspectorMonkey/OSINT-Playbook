@@ -43,12 +43,21 @@
 
 ## 💡 Tips & Good Practices / Conseils
 
-- VoIP numbers are harder to trace — they can be registered anonymously
+**EN**
+- VoIP numbers are harder to trace, they can be registered anonymously
 - Always search the number with and without country code
 - WhatsApp, Telegram and Signal accounts are often linked to phone numbers — check profile pictures and bios
 - A phone number appearing in breach data is a major pivot point
-- Truecaller relies on crowdsourced data — results may vary by region
-- Search the number in quotes on Google : surprises happen frequently
+- Truecaller relies on crowdsourced data, results may vary by region
+- Search the number in quotes on Google
+
+**FR**
+- Les numéros VoIP sont plus difficiles à tracer, ils peuvent être enregistrés de manière anonyme
+- Toujours rechercher le numéro avec et sans l’indicatif pays
+- Les comptes WhatsApp, Telegram et Signal sont souvent liés à des numéros de téléphone : vérifiez les photos de profil et les bios
+- Un numéro de téléphone apparaissant dans des fuites de données est une information capitale
+- Truecaller repose sur des données participatives, les résultats peuvent varier selon la région
+- Il est pretient de recherche le numéro entre guillemets sur Google
 
 ---
 

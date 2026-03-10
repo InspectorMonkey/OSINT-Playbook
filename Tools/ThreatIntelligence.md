@@ -12,6 +12,7 @@
 | Shodan | Identify exposed infrastructure and IoT | Identifie les infrastructures et objets connectés exposés | [shodan.io](https://www.shodan.io) |
 | ZoomEye | Identify exposed infrastructure and IoT | Identifie les infrastructures et objets connectés exposés | [zoomeye.ai]((https://www.zoomeye.ai/)) |
 | Censys | Identify exposed infrastructure and IoT | Identifie les infrastructures et objets connectés exposés | [censys.com]((https://censys.com/)) |
+| GreyNoise | Internet scan traffic analysis and IP qualification | Analyse du trafic de scan internet et qualification des adresses IP | [greynoise.io](https://www.greynoise.io) |
 | VirusTotal | File, URL and domain reputation analysis | Analyse de la réputations de fichiers, URL et noms de domaine | [virustotal.com](https://www.virustotal.com) |
 | MalwareBazaar | Malware samples and IOC database | Échantillons de malware et bases de données d’indicateurs de compromission | [bazaar.abuse.ch](https://bazaar.abuse.ch) |
 | URLScan | Website scanning and behavior analysis | Analyse du comportement des sites web et scan de sécurité | [urlscan.io](https://urlscan.io) |

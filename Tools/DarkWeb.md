@@ -22,6 +22,7 @@
 | DarkSearch | Indexed dark web search engine | [darksearch.io](https://darksearch.io) |
 | Shodan | Identifying hidden infrastructure | [shodan.io](https://www.shodan.io) |
 | ExifTool | Metadata extraction from documents found | [exiftool.org](https://exiftool.org) |
+| Ahmia | Ethical Tor hidden services search engine accessible from the clearnet | Moteur de recherche éthique des services cachés Tor accessible depuis le web classique | [ahmia.fi](https://ahmia.fi) |
 
 ---
 

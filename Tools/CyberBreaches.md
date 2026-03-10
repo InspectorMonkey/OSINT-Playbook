@@ -22,6 +22,8 @@
 | ThreatBook | Intelligence-driven threat detection with deep APAC threat actor coverage | Détection de menaces pilotée par l'intelligence avec couverture approfondie des acteurs APAC | [threatbook.io](https://threatbook.io) |
 | Hudson Rock | Infostealer intelligence and compromised credentials database | Renseignement sur les infostealers et base de données de credentials compromis | [hudsonrock.com](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) |
 | LeakRadar | Cleartext credential leak search across 290B+ records with real-time alerts | Recherche de credentials en clair sur 290 milliards d'enregistrements avec alertes temps réel | [leakradar.io](https://leakradar.io) |
+| NAPALM FTP Indexer | Search engine for publicly accessible FTP servers indexing 316M+ files across 1,200+ servers to find exposed documents and data | Moteur de recherche dans les serveurs FTP publics indexant 316M+ fichiers sur 1 200+ serveurs pour détecter des documents et données exposés | [searchftps.net](https://www.searchftps.net) |
+| Google Hacking Database (GHDB) | Community-maintained index of Google Dorks organized by category to find sensitive data, exposed devices and login portals via search engines | Index communautaire de Google Dorks classés par catégorie pour découvrir données sensibles, équipements exposés et portails de connexion via les moteurs de recherche | [exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database) |
 
 ---
 

@@ -15,6 +15,8 @@
 | Social-Analyzer | Multi-platform profile analysis | Analyse de profils multiplateforme | [GitHub](https://github.com/qeeqbox/social-analyzer) |
 | Instaloader | Instagram data extraction | Extraction de données de profils Instagram | [GitHub](https://github.com/instaloader/instaloader) |
 | Twint | Twitter/X scraping without API | Scraping de données sans API sur Twitter/X | [GitHub](https://github.com/twintproject/twint) |
+| RecruitEm | X-Ray search generator for LinkedIn and 10 other platforms, building Google dorks to find public profiles beyond native search restrictions | Générateur de recherches X-Ray pour LinkedIn et 10 autres plateformes, construisant des dorks Google pour accéder aux profils publics sans restrictions natives | [recruitin.net](https://recruitin.net) |
+| OSINT Industries | Real-time identity pivot platform aggregating 1500+ sources from email, phone, username or crypto wallet with geospatial mapping and activity timeline | Plateforme de pivot identitaire temps réel agrégeant 1500+ sources depuis email, téléphone, username ou wallet crypto avec cartographie géospatiale et timeline d'activité | [osint.industries](https://www.osint.industries) |
 
 ---
 

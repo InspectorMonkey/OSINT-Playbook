@@ -26,6 +26,20 @@
 | PublicWWW | Source code search engine for HTML, JS and CSS pivot by shared identifiers | Moteur de recherche dans le code source web avec pivoting par identifiants partagés | [publicwww.com](https://publicwww.com) |
 | NerdyData | Source code search engine with tech stack and company data enrichment | Moteur de recherche dans le code source avec enrichissement du stack technologique et des données d'entreprise | [nerdydata.com](https://www.nerdydata.com) |
 | Grep.app | Source code search across public GitHub repositories with regex support | Recherche dans le code source de dépôts GitHub publics avec support des expressions régulières | [grep.app](https://grep.app) |
+| BGP Toolkit (HE) | ASN lookup, IP prefix mapping and internet routing intelligence | Recherche d'ASN, cartographie des préfixes IP et renseignement sur le routage internet | [bgp.he.net](https://bgp.he.net) |
+| Whoistory | Russian .RU domain registration history and WHOIS database | Historique d'enregistrement de domaines .RU russes et base de données WHOIS | [whoistory.com](https://whoistory.com) |
+| ASNLookup | ASN and IP address lookup with free API and bulk processing | Recherche d'ASN et d'adresses IP avec API gratuite et traitement en masse | [asnlookup.com](https://asnlookup.com) |
+| CentralOps | All-in-one online network tools with Domain and Email Dossier | Outils réseau en ligne tout-en-un avec dossiers complets de domaine et d'email | [centralops.net](https://centralops.net) |
+| BGP.Tools | Real-time BGP data browser with ASN, prefix, DNS and MAC address lookup | Navigateur de données BGP temps réel avec recherche par ASN, préfixe, DNS et adresse MAC | [bgp.tools](https://bgp.tools) |
+| MyIP.ms | IP hosting history, co-hosted sites discovery and real-time blacklist check | Historique d'hébergement IP, découverte de sites co-hébergés et vérification de blacklist | [myip.ms](https://myip.ms) |
+| IPinfo | Comprehensive IP intelligence with geolocation, ASN, privacy detection and hosted domains | Renseignement IP complet avec géolocalisation, ASN, détection de VPN et domaines hébergés | [ipinfo.io](https://ipinfo.io) |
+| WhoisXML API | Comprehensive domain, IP & DNS intelligence with WHOIS history, reverse WHOIS pivoting and predictive threat feeds | Renseignement domaine, IP et DNS avec historique WHOIS, pivots WHOIS inversé et flux de menaces prédictifs | [whoisxmlapi.com](https://main.whoisxmlapi.com) |
+| BigDomainData | Massive historical WHOIS database of 668M domains with granular reverse WHOIS filtering and fuzzy domain generation | Base WHOIS historique de 668M domaines avec filtres reverse WHOIS granulaires et génération de domaines similaires | [bigdomaindata.com](https://www.bigdomaindata.com) |
+| DNS History | Free DNS record archive since 2009 with 66B+ records, searchable by nameserver, MX or IP to pivot across shared infrastructure | Archive DNS gratuite depuis 2009 avec 66Mds d'enregistrements, recherche par NS/MX/IP pour relier des infrastructures partagées | [dnshistory.org](https://dnshistory.org) |
+| ViewDNS | Free multi-tool for DNS/IP investigation with IP history, reverse IP/NS/MX/WHOIS lookups and firewall accessibility tests | Boîte à outils DNS/IP gratuite avec historique IP, lookups inversés NS/MX/WHOIS et tests d'accessibilité géographique | [viewdns.info](https://viewdns.info) |
+| Web-Check | Open-source all-in-one website reconnaissance tool with 30+ checks covering DNS, SSL, headers, tech stack, threats and WHOIS | Outil de reconnaissance web open source avec 30+ modules : DNS, SSL, headers, stack technique, menaces et WHOIS | [web-check.as93.net](https://web-check.as93.net) |
+| crt.sh | Certificate Transparency log search engine to discover subdomains and organizational domain portfolios via SSL/TLS certificate records | Moteur de recherche dans les logs Certificate Transparency pour découvrir des sous-domaines et portefeuilles de domaines via les certificats SSL/TLS | [crt.sh](https://crt.sh) |
+
 
 ---
 

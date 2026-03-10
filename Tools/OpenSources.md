@@ -23,6 +23,9 @@
 | SubdomainRadar | All-in-one subdomain enumeration, port scanning and vulnerability detection | Énumération de sous-domaines tout-en-un avec scan de ports et détection de vulnérabilités | [subdomainradar.io](https://subdomainradar.io) |
 | SecurityTrails | DNS history, subdomain enumeration and infrastructure intelligence | Historique DNS, énumération de sous-domaines et renseignement sur les infrastructures | [securitytrails.com](https://securitytrails.com) |
 | PugRecon | Passive subdomain enumeration database with billions of indexed records | Base de données passive d'énumération de sous-domaines avec des milliards d'entrées indexées | [pugrecon.com](https://pugrecon.com) |
+| PublicWWW | Source code search engine for HTML, JS and CSS pivot by shared identifiers | Moteur de recherche dans le code source web avec pivoting par identifiants partagés | [publicwww.com](https://publicwww.com) |
+| NerdyData | Source code search engine with tech stack and company data enrichment | Moteur de recherche dans le code source avec enrichissement du stack technologique et des données d'entreprise | [nerdydata.com](https://www.nerdydata.com) |
+| Grep.app | Source code search across public GitHub repositories with regex support | Recherche dans le code source de dépôts GitHub publics avec support des expressions régulières | [grep.app](https://grep.app) |
 
 ---
 

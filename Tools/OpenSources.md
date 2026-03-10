@@ -39,6 +39,7 @@
 | ViewDNS | Free multi-tool for DNS/IP investigation with IP history, reverse IP/NS/MX/WHOIS lookups and firewall accessibility tests | Boîte à outils DNS/IP gratuite avec historique IP, lookups inversés NS/MX/WHOIS et tests d'accessibilité géographique | [viewdns.info](https://viewdns.info) |
 | Web-Check | Open-source all-in-one website reconnaissance tool with 30+ checks covering DNS, SSL, headers, tech stack, threats and WHOIS | Outil de reconnaissance web open source avec 30+ modules : DNS, SSL, headers, stack technique, menaces et WHOIS | [web-check.as93.net](https://web-check.as93.net) |
 | crt.sh | Certificate Transparency log search engine to discover subdomains and organizational domain portfolios via SSL/TLS certificate records | Moteur de recherche dans les logs Certificate Transparency pour découvrir des sous-domaines et portefeuilles de domaines via les certificats SSL/TLS | [crt.sh](https://crt.sh) |
+| Cylect.io | AI-powered OSINT tool aggregator launching 475+ specialized tools pre-filled with your query across 20+ categories: email, IP, domain, people, images, crypto, vehicles and Tor | Agrégateur OSINT propulsant 475+ outils spécialisés pré-remplis avec ta requête sur 20+ catégories : email, IP, domaine, personnes, images, crypto, véhicules et Tor | [cylect.io](https://cylect.io) |
 
 
 ---

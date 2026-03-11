@@ -128,3 +128,10 @@
 - [Bellingcat — Verification Handbook](https://verificationhandbook.com)
 - [ExifTool Documentation](https://exiftool.org)
 - [SunCalc](https://www.suncalc.org)
+
+
+>*Next [tool](../Tools/Identity-SocialMedia.md)*
+
+> *Discover other [tools](../Tools)*
+
+> *Back to [Main Playbook](../README.md)*

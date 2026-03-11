@@ -6,75 +6,99 @@
 
 ## 🛠️ Tools / Outils
 
-| Tool | Usage | Link |
-|------|-------|------|
-| NumLookup | Phone number lookup and carrier info | [numlookup.com](https://www.numlookup.com) |
-| Truecaller | Caller ID and phone number search | [truecaller.com](https://www.truecaller.com) |
-| PhoneInfoga | Advanced phone number OSINT framework | [GitHub](https://github.com/sundowndev/phoneinfoga) |
-| Sync.me | Reverse phone lookup | [sync.me](https://sync.me) |
-| OpenCNAM | Caller name lookup (US-focused) | [opencnam.com](https://www.opencnam.com) |
-| IntelX | Search phone numbers in leaked databases | [intelx.io](https://intelx.io) |
-| DeHashed | Phone number search in breach data | [dehashed.com](https://www.dehashed.com) |
-| Carrier Lookup | Identify carrier and line type | [carrierlookup.com](https://www.carrierlookup.com) |
-| EmobileTracker | Free worldwide reverse phone lookup returning carrier, line type, approximate region and community spam reports for unknown numbers | Reverse lookup téléphonique mondial gratuit retournant l'opérateur, le type de ligne, la région approximative et les signalements communautaires de spam | [emobiletracker.com](https://www.emobiletracker.com) |
+### Reverse Phone Lookup & Carrier Intelligence
+
+| Tool | Usage (English) | Usages (French) | Alternatives | 💰 | 🌍 | Link |
+|------|----------------|-----------------|--------------|----|----|------|
+| PhoneInfoga | Advanced phone number OSINT framework (carrier lookup, reputation scan, pivot to social accounts) | Framework OSINT avancé pour les numéros de téléphone (lookup opérateur, scan de réputation, pivot vers comptes sociaux) | Truecaller, NumLookup | Free | 🇫🇷 France | [GitHub](https://github.com/sundowndev/phoneinfoga) |
+| Truecaller | Caller ID and reverse phone lookup (crowdsourced database of 3B+ numbers) | Identification d'appelant et lookup inversé (base crowdsourcée de plus de 3 milliards de numéros) | Sync.me, EmobileTracker | Freemium | 🇸🇪 Sweden | [truecaller.com](https://www.truecaller.com) |
+| EmobileTracker | Worldwide reverse phone lookup (carrier, line type, approximate region, spam reports) | Reverse lookup téléphonique mondial (opérateur, type de ligne, région approximative, signalements spam) | Truecaller, NumLookup | Free | 🌐 International | [emobiletracker.com](https://www.emobiletracker.com) |
+| NumLookup | Phone number lookup with carrier info and line type detection | Lookup de numéros avec informations sur l'opérateur et le type de ligne | EmobileTracker, Carrier Lookup | Free | 🌐 International | [numlookup.com](https://www.numlookup.com) |
+| Sync.me | Reverse phone lookup and caller ID with social media enrichment | Lookup inversé et identification d'appelant avec enrichissement réseaux sociaux | Truecaller, EmobileTracker | Freemium | 🇮🇱 Israel | [sync.me](https://sync.me) |
+| Carrier Lookup | Identify carrier and line type (mobile, landline, VoIP) by phone number | Identifier l'opérateur et le type de ligne (mobile, fixe, VoIP) par numéro de téléphone | EmobileTracker, NumLookup | Free | 🇺🇸 USA | [carrierlookup.com](https://www.carrierlookup.com) |
+| OpenCNAM | Caller name (CNAM) lookup, US-focused, useful for business number identification | Recherche du nom d'appelant (CNAM), centré sur les États-Unis, utile pour l'identification des numéros professionnels | Truecaller | Freemium | 🇺🇸 USA | [opencnam.com](https://www.opencnam.com) |
+
+### Breach & Identity Pivot
+
+| Tool | Usage (English) | Usages (French) | Alternatives | 💰 | 🌍 | Link |
+|------|----------------|-----------------|--------------|----|----|------|
+| OSINT Industries | Real-time pivot from phone number to email, username, social accounts and geospatial data | Pivot temps réel d'un numéro de téléphone vers email, pseudo, comptes sociaux et données géospatiales | Epieos, Predicta Search | Paid | 🇬🇧 UK | [osint.industries](https://www.osint.industries) |
+| Epieos | Phone number → linked Google account and registered platforms | Numéro de téléphone → compte Google associé et plateformes liées | OSINT Industries | Freemium | 🌐 International | [epieos.com](https://epieos.com) |
+| IntelX | Search phone numbers in paste sites and leaked databases | Rechercher des numéros de téléphone dans les paste sites et bases de données fuités | DeHashed | Freemium | 🇩🇪 Germany | [intelx.io](https://intelx.io) |
+| DeHashed | Phone number search across breach datasets | Recherche de numéros de téléphone dans les jeux de données de fuites | IntelX, LeakCheck | Freemium | 🇺🇸 USA | [dehashed.com](https://www.dehashed.com) |
 
 ---
 
 ## 🔎 Methodology / Méthodologie
 
 **EN**
-1. Identify the target phone number and country code
-2. Determine carrier and line type (mobile, landline, VoIP)
-3. Run reverse lookup to find associated identity (Truecaller, Sync.me)
-4. Search number in breach databases (IntelX, DeHashed)
-5. Check if number is linked to social media accounts
-6. Search number in Google and Yandex with quotes : `"+33XXXXXXXXX"`
-7. Document all findings with timestamps
+1. Identify the target phone number : note country code and number format
+2. Determine carrier and line type : mobile, landline or VoIP (EmobileTracker, Carrier Lookup)
+3. Run reverse lookup to find associated name and identity (Truecaller, Sync.me, EmobileTracker)
+4. Pivot from phone to linked online accounts (OSINT Industries, Epieos)
+5. Search the number in breach databases (IntelX, DeHashed)
+6. Check if the number is linked to WhatsApp, Telegram or Signal : look for profile pictures and bios
+7. Search the number in Google and Yandex with quotes: `"+1XXXXXXXXXX"`
+8. Document all findings with timestamps
 
 **FR**
-1. Identifier le numéro de téléphone cible et l'indicatif pays
-2. Déterminer l'opérateur et le type de ligne (mobile, fixe, VoIP)
-3. Effectuer une recherche inversée pour trouver l'identité associée (Truecaller, Sync.me)
-4. Rechercher le numéro dans les bases de données de fuites (IntelX, DeHashed)
-5. Vérifier si le numéro est lié à des comptes sur les réseaux sociaux
-6. Rechercher le numéro sur Google et Yandex entre guillemets : `"+33XXXXXXXXX"`
-7. Documenter tous les résultats avec horodatage
-
----
-
-## 💡 Tips & Good Practices / Conseils
-
-**EN**
-- VoIP numbers are harder to trace, they can be registered anonymously
-- Always search the number with and without country code
-- WhatsApp, Telegram and Signal accounts are often linked to phone numbers — check profile pictures and bios
-- A phone number appearing in breach data is a major pivot point
-- Truecaller relies on crowdsourced data, results may vary by region
-- Search the number in quotes on Google
-
-**FR**
-- Les numéros VoIP sont plus difficiles à tracer, ils peuvent être enregistrés de manière anonyme
-- Toujours rechercher le numéro avec et sans l’indicatif pays
-- Les comptes WhatsApp, Telegram et Signal sont souvent liés à des numéros de téléphone : vérifiez les photos de profil et les bios
-- Un numéro de téléphone apparaissant dans des fuites de données est une information capitale
-- Truecaller repose sur des données participatives, les résultats peuvent varier selon la région
-- Il est pretient de recherche le numéro entre guillemets sur Google
+1. Identifier le numéro de téléphone cible : noter l'indicatif pays et le format
+2. Déterminer l'opérateur et le type de ligne : mobile, fixe ou VoIP (EmobileTracker, Carrier Lookup)
+3. Effectuer un lookup inversé pour trouver le nom et l'identité associés (Truecaller, Sync.me)
+4. Pivoter du téléphone vers les comptes en ligne liés (OSINT Industries, Epieos)
+5. Rechercher le numéro dans les bases de données de fuites (IntelX, DeHashed)
+6. Vérifier si le numéro est lié à WhatsApp, Telegram ou Signal : chercher photos de profil et bios
+7. Rechercher le numéro sur Google et Yandex entre guillemets : `"+33XXXXXXXXX"`
+8. Documenter tous les résultats avec horodatage
 
 ---
 
 ## 🚩 Key Red Flags / Signaux d'alerte
 
+**ENG**
 | Red Flag | Possible Implication |
 |----------|---------------------|
-| VoIP number with no carrier info | Anonymous or disposable number |
-| Number linked to multiple identities | Shared or recycled number |
-| Number found in breach databases | Compromised identity |
-| No results across all platforms | Deliberate anonymization |
+| VoIP number with no carrier attribution | Anonymous or disposable number |
+| Number linked to multiple identities | Shared, recycled or fraudulent number |
+| Number found in breach databases | Compromised or exposed identity |
+| No results across any platform | Deliberate anonymization |
+| Burner app provider (Google Voice, TextNow, etc.) | Temporary use — low traceability |
+
+**FR**
+| Signal d’alerte | Implication possible |
+| ------------------------------------------------------------------ | ------------------------------------------ |
+| Numéro VoIP sans attribution d’opérateur | Numéro anonyme ou jetable |
+| Numéro lié à plusieurs identités | Numéro partagé, recyclé ou frauduleux |
+| Numéro trouvé dans des bases de données de fuites | Identité compromise ou exposée |
+| Aucun résultat sur aucune plateforme | Anonymisation délibérée |
+| Fournisseur d’application « burner » (Google Voice, TextNow, etc.) | Utilisation temporaire, faible traçabilité |
+
+
+---
+
+## 💡 Tips & Good Practices / Conseils
+
+**ENG**
+- Always search the number with AND without country code — results differ
+- VoIP numbers are significantly harder to trace — flag them immediately
+- WhatsApp, Telegram and Signal accounts are often linked to phone numbers — check profile pictures and bios immediately after lookup
+- A phone number appearing in breach data is a high-value pivot point — it may unlock email, name, address
+- Truecaller relies on crowdsourced data — coverage varies by country and region
+- Always run Google and Yandex quoted searches — users leave phone numbers in forums, listings and social bios
+
+**FR**
+- Recherche toujours le numéro avec ET sans indicatif pays : les résultats diffèrent
+- Les numéros VoIP sont nettement plus difficiles à tracer : signale-les immédiatement
+- Les comptes WhatsApp, Telegram et Signal sont souvent liés aux numéros de téléphone : vérifie les photos de profil et les biographies immédiatement après la recherche
+- Un numéro de téléphone apparaissant dans des données de fuite est un point de pivot de grande valeur : il peut révéler un e-mail, un nom ou une adresse
+- Truecaller repose sur des données issues du crowdsourcing : la couverture varie selon les pays et les régions
+- Effectue toujours des recherches entre guillemets sur Google et Yandex : les utilisateurs laissent des numéros de téléphone dans des forums, des annonces et des biographies de réseaux sociaux
+
 
 ---
 
 ## 🔗 Useful Resources / Ressources utiles
 
-- [PhoneInfoga](https://github.com/sundowndev/phoneinfoga)
+- [PhoneInfoga GitHub](https://github.com/sundowndev/phoneinfoga)
 - [IntelX](https://intelx.io)
 - [Truecaller](https://www.truecaller.com)

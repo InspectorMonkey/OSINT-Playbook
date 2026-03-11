@@ -126,4 +126,9 @@
 - [Pappers](https://www.pappers.fr)
 - [FATF Guidance on Beneficial Ownership](https://www.fatf-gafi.org)
 
+>*Next [tool](Tools/Crypto.md)*
+
+> *Discover other [tools](../Tools)*
+
 > *Back to [Main Playbook](../README.md)*
+

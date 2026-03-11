@@ -111,6 +111,6 @@
 
 >*Next [tool](../Tools/CorporateIntelligence.md)*
 
-> *Discover other [Tools](../Tools)*
+> *Discover other [tools](../Tools)*
 
 > *Back to [Main Playbook](../README.md)*

@@ -98,9 +98,16 @@
 
 ## ⚠️ Golden Rules / Règles d'or
 
-- **Document everything** — if it's not written down and sourced, it doesn't exist
-- **Never assume** — verify before concluding, especially on attribution
-- **Stay in scope** — don't drift from the original objective
-- **Archive immediately** — content disappears; the live web is not a source
-- **Protect your tradecraft** — consider your operational security at every step
-- **Know when to stop** — an investigation has an end; scope creep produces noise, not intelligence
+- **Document everything** : if it's not written down and sourced, it doesn't exist
+- **Never assume** : verify before concluding, especially on attribution
+- **Stay in scope** : don't drift from the original objective
+- **Archive immediately** : content disappears; the live web is not a source
+- **Protect your tradecraft** : consider your operational security at every step
+- **Know when to stop** : an investigation has an end; scope creep produces noise, not intelligence
+
+- **Tout documenter** : si ce n’est pas consigné et sourcé, cela n’existe pas.
+- **Ne jamais présumer** : vérifiez avant de conclure, particulièrement en ce qui concerne l'attribution.
+- **Respecter le périmètre** : ne vous éloignez pas de l’objectif initial.
+- **Archiver immédiatement** : les contenus disparaissent ; le web en direct n’est pas une source fiable.
+- **Protéger vos méthodes** : gardez votre sécurité opérationnelle (OPSEC) à l'esprit à chaque étape.
+- **Savoir s'arrêter** : toute investigation a une fin ; la dérive des objectifs produit du bruit, pas du renseignement.

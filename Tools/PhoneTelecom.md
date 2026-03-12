@@ -103,7 +103,7 @@
 - [IntelX](https://intelx.io)
 - [Truecaller](https://www.truecaller.com)
 
->*Next [tool](../Tools/Tools/ThreatIntelligence.md)*
+>*Next [tool](../Tools/ThreatIntelligence.md)*
 
 > *Discover other [tools](../Tools)*
 

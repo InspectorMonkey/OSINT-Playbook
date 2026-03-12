@@ -146,3 +146,7 @@
 - [Recorded Future Blog](https://www.recordedfuture.com/blog)
 - [Krebs on Security](https://krebsonsecurity.com)
 - [The DFIR Report](https://thedfirreport.com)
+
+> *Discover other [tools](../Tools)*
+
+> *Back to [Main Playbook](../README.md)*

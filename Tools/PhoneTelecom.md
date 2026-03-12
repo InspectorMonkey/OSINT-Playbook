@@ -102,3 +102,9 @@
 - [PhoneInfoga GitHub](https://github.com/sundowndev/phoneinfoga)
 - [IntelX](https://intelx.io)
 - [Truecaller](https://www.truecaller.com)
+
+>*Next [tool](../Tools/Tools/ThreatIntelligence.md)*
+
+> *Discover other [tools](../Tools)*
+
+> *Back to [Main Playbook](../README.md)*

@@ -9,7 +9,11 @@
 
 🇬🇧 — This repository centralizes tools, methodologies and best practices for getting started in OSINT investigations. Organized by discipline, it covers identity & social media, infrastructure & network reconnaissance, cyber breaches & dark web monitoring, threat intelligence, corporate intelligence, crypto tracing, phone & telecom, geolocation & imagery, disinformation & influence operations, maritime and aviation.
 
+To access a wider range of tools for all skill levels, you can visit my [Toolbox](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox)
+
 🇫🇷 — Ce repository centralise les outils, méthodologies et bonnes pratiques pour débuter en investigations OSINT. Organisé par discipline, il couvre l'identité et les réseaux sociaux, la reconnaissance d'infrastructure et réseau, les fuites de données et la surveillance du dark web, la threat intelligence, l'intelligence corporate, le traçage crypto, le téléphone, la géolocalisation et l'imagerie, la désinformation et les opérations d'influence, le maritime et l'aviation.
+
+Pour accéder à une plus large gamme d'outils de tous niveaux, vous pouvez accéder à ma [Toolbox](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox)
 
 ---
 

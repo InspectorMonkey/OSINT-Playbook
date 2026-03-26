@@ -108,7 +108,7 @@
 - **Protect your tradecraft** : consider your operational security at every step
 - **Know when to stop** : an investigation has an end, scope creep produces noise, not intelligence. It's important to set limits
 
-**FR**
+🇫🇷
 - **Tout documenter** : si ce n’est pas consigné et sourcé, l'élément documenté n’existe pas
 - **Ne jamais présumer** : vérifiez avant de conclure, particulièrement en ce qui concerne l'attribution
 - **Respecter le scope** : ne vous éloignez pas de l’objectif initial

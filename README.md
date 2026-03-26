@@ -36,9 +36,20 @@ OSINT-Playbook/
 └── References/
     └── Resources.md
 ```
-## Shortcut 
+## Shortcut to tools / Raccourci vers les outils
+
 →[Aviation](Tools/Aviation.md)
-→[
+→[Corporate Intelligence](Tools/CorporateIntelligence.md)
+→[Crypto](Tools/Crypto.md)
+→[Cyber breaches & Dark web](Tools/CyberBreaches&DarkWeb.md)
+→[Disinformation](Tools/Disinformation.md)
+→[IMINT](Tools/Disinformation.md)
+→[Social Media](Tools/Identity-SocialMedia.md)
+→[Infrastructure Network)(Tools/Infrastructure-Network.md)
+→[Maritime](Tools/Martitime.md)
+→[Phone](Tools/PhoneTelecom.md)
+→[Threats Intelligence](Tools/ThreatIntelligence.md)
+
 ---
 
 ## ⚠️ Ethics & Legality / Éthique & Légalité

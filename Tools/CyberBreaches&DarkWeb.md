@@ -6,13 +6,13 @@
 
 ## ⚠️ Legal Notice / Avertissement légal
 
-**EN**
+🇬🇧
 -Breach data must only be used for investigative or defensive purposes. 
 -Never exploit, redistribute or use credentials for unauthorized access. 
 -Dark web investigation must strictly comply with applicable law. 
 -Never engage with illegal content or services.
 
-**FR** 
+🇫🇷
 -Les fuites de données ne doivent être utilisées qu'à des fins défensives ou d'investigation. 
 -Ne jamais exploiter, redistribuer ou utiliser des credentials pour un accès non autorisé. 
 -Toute investigation sur le dark web doit strictement respecter le cadre légal en vigueur. 
@@ -32,7 +32,7 @@
 | LeakCheck | Credential leak verification with reverse search by password | Vérification de fuites de credentials avec recherche inversée par mot de passe | DeHashed, HIBP | Freemium | 🌐 International | [leakcheck.io](https://leakcheck.io) |
 | LeakRadar | Real-time cleartext credential leak detection across 290B+ records with domain monitoring and alerts | Détection temps réel de credentials en clair sur 290Mds+ d'enregistrements avec surveillance de domaine et alertes | IntelX, DeHashed | Freemium | 🌐 International | [leakradar.io](https://leakradar.io) |
 | Hudson Rock | Infostealer intelligence platform - compromised credentials database and Cavalier API | Plateforme de renseignement infostealer — base de données de credentials compromis et API Cavalier | LeakRadar, Flare | Freemium | 🇮🇱 Israel | [hudsonrock.com](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) |
-| BreachDirectory | Breach data lookup — email, username and password reverse search | Lookup dans les données de fuites — recherche inversée par email, pseudo et mot de passe | HIBP, LeakCheck | Free | 🌐 International | [breachdirectory.org](https://breachdirectory.org) |
+| BreachDirectory | Breach data lookup — email, username and password reverse search | Lookup dans les données de fuites : recherche inversée par email, pseudo et mot de passe | HIBP, LeakCheck | Free | 🌐 International | [breachdirectory.org](https://breachdirectory.org) |
 | Pulsedive | Community threat intelligence platform with MITRE ATT&CK enrichment — correlates IOCs | Plateforme de renseignement sur les menaces communautaire avec enrichissement MITRE ATT&CK | OTX AlienVault | Freemium | 🇺🇸 USA | [pulsedive.com](https://pulsedive.com) |
 | ThreatBook | Intelligence-driven threat detection with deep APAC threat actor coverage | Détection de menaces pilotée par le renseignement avec couverture approfondie des acteurs APAC | Pulsedive, OTX | Freemium | 🇨🇳 China | [threatbook.io](https://threatbook.io) |
 
@@ -59,7 +59,7 @@
 
 ### Breach Investigation
 
-**EN**
+🇬🇧
 1. Identify target email addresses, domains or usernames
 2. Check known breach databases (HIBP, DeHashed, LeakCheck)
 3. Search paste sites and dark web sources (IntelX, LeakRadar)
@@ -67,7 +67,7 @@
 5. Cross-reference findings to build a broader identity or risk profile
 6. Document all findings responsibly (never exploit or share raw credentials)
 
-**FR**
+🇫🇷
 1. Identifier les adresses email, domaines ou pseudos cibles
 2. Consulter les bases de données de fuites connues (HIBP, DeHashed, LeakCheck)
 3. Rechercher sur les sites de paste et sources dark web (IntelX, LeakRadar)
@@ -77,7 +77,7 @@
 
 ### Dark Web Investigation
 
-**EN**
+🇬🇧
 1. Define scope : what exactly are you looking for?
 2. Use clearnet-accessible search engines first (Ahmia, DarkSearch, IntelX)
 3. Access .onion sites only via Tor in a secure, isolated environment (dedicated VM)
@@ -85,7 +85,7 @@
 5. Document every finding with screenshots and timestamps
 6. Cross-reference with clearnet sources to validate
 
-**FR**
+🇫🇷
 1. Définir le périmètre : que cherche-t-on exactement ?
 2. Utiliser d'abord les moteurs accessibles depuis le clearnet (Ahmia, DarkSearch, IntelX)
 3. Accéder aux sites .onion uniquement via Tor dans un environnement sécurisé et isolé (VM dédiée)
@@ -111,11 +111,13 @@
 
 ## 🕵️ Cybercriminal Ecosystems / Écosystèmes cybercriminels
 
-**EN** — Before data appears in public breach databases, it circulates in cybercriminal ecosystems. Monitoring these sources provides earlier visibility on active leaks and threat actor activity.
+🇬🇧
+— Before data appears in public breach databases, it circulates in cybercriminal ecosystems. Monitoring these sources provides earlier visibility on active leaks and threat actor activity.
 
-**FR** — Avant que les données n'apparaissent dans les bases de données publiques de fuites, elles circulent au sein des écosystèmes cybercriminels. Surveiller ces sources permet d'obtenir une visibilité plus précoce sur les fuites actives et l'activité des acteurs malveillants.
+🇫🇷
+— Avant que les données n'apparaissent dans les bases de données publiques de fuites, elles circulent au sein des écosystèmes cybercriminels. Surveiller ces sources permet d'obtenir une visibilité plus précoce sur les fuites actives et l'activité des acteurs malveillants.
 
-**ENG**
+🇬🇧
 | Platform | Type | Note |
 |----------|------|------|
 | Telegram channels | Messaging | Primary vector for data leaks and initial sales |
@@ -124,7 +126,7 @@
 | Dark web marketplaces | .onion sites | Credential and data sales with escrow |
 | Paste sites (Pastebin, GhostBin) | Paste | Rapid public data dumps |
 
-**FR**
+🇫🇷
 | Plateforme | Type | Note |
 |------------|------|------|
 | Canaux Telegram | Messagerie | Principal vecteur de fuites de données et de ventes initiales |
@@ -147,7 +149,7 @@
 | Data advertised before public disclosure | Zero-day breach still under exploitation |
 | Employee credentials on Telegram channels | Imminent phishing or account takeover risk |
 
-**FR**
+🇫🇷
 | Indicateur d'alerte (Red Flag) | Implication possible |
 | Adresse email professionnelle dans des logs d'infostealers | Compromission active d'un appareil |
 | Identifiants présents dans plusieurs jeux de données de fuites | Réutilisation persistante de mots de passe, risque élevé d'exploitation |
@@ -160,7 +162,7 @@
 
 ## 💡 Tips & Good Practices / Conseils
 
-**ENG**
+🇬🇧
 - Always operate from a dedicated, isolated machine or VM for dark web investigation
 - Never use your real identity or personal accounts on dark web platforms
 - Disable JavaScript in Tor Browser for better anonymity
@@ -168,13 +170,15 @@
 - Telegram has become the primary distribution vector for fresh breach data — monitor relevant channels
 - Many .onion sites are honeypots or scams — prioritize passive observation, never interact unless necessary
 
-**FR**
-- Toujours opérer depuis une machine dédiée et isolée ou une VM pour les investigations sur le dark web.
-- Ne jamais utiliser votre véritable identité ou vos comptes personnels sur les plateformes du dark web.
-- Désactiver JavaScript dans Tor Browser pour une meilleure anonymité.
-- Les logs des infostealers (comme Hudson Rock, LeakRadar) précèdent souvent les divulgations publiques de fuites — utilise-les tôt.
-- Telegram est devenu le principal vecteur de distribution des données fraîches issues de fuites — surveille les canaux pertinents.
-- De nombreux sites .onion sont des honeypots ou des arnaques — privilégie l'observation passive, n'interagis que si nécessaire.
+🇫🇷
+- Toujours opérer depuis une machine dédiée et isolée ou une VM pour les investigations sur le dark web
+- Ne jamais utiliser votre véritable identité ou vos comptes personnels sur les plateformes du dark web
+- Désactiver JavaScript dans Tor Browser pour une meilleure anonymité
+- Les logs des infostealers (comme Hudson Rock, LeakRadar) précèdent souvent les divulgations publiques de fuites : utilise-les tôt
+- Telegram est devenu le principal vecteur de distribution des données fraîches issues de fuites : surveille les canaux pertinents.
+- De nombreux sites .onion sont des honeypots ou des arnaques : privilégie l'observation passive, n'interagis que si nécessaire.
+
+Tu peux te rendre [ici](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox/blob/main/Tools/DarkWeb.md) pour avoir accès à une boîte à outils crypto plus complète/You can go [here](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox/blob/main/Tools/DarkWeb.md) to access a more comprehensive crypto toolkit
 
 >*Next [tool](../Tools/Disinformation.md)*
 

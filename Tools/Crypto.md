@@ -23,10 +23,10 @@
 | Breadcrumbs | Free visual crypto transaction tracing, fund flow mapping and entity labeling | Traçage visuel gratuit des transactions crypto, cartographie des flux et étiquetage des entités | Arkham, Chainalysis | Free | 🇺🇸 USA | [breadcrumbs.app](https://www.breadcrumbs.app) |
 | Arkham Intelligence | On-chain entity identification and deanonymization, links wallets to real-world identities | Identification et désanonymisation d'entités on-chain, relie les portefeuilles à des identités réelles | Breadcrumbs, Chainalysis | Freemium | 🇺🇸 USA | [platform.arkhamintelligence.com](https://platform.arkhamintelligence.com) |
 | DeBankPro | DeFi wallet and multi-chain portfolio analysis, tracks cross-chain activity | Analyse de portefeuilles DeFi et multi-chaînes, suit l'activité cross-chain | Zapper, Zerion | Freemium | 🇨🇳 China | [debank.com](https://debank.com) |
-| Crystal Blockchain | Blockchain transaction tracing and compliance risk scoring | Traçage des transactions blockchain et scoring de risque de conformité | Chainalysis, Elliptic | Paid | 🇺🇦 Ukraine | [crystalblockchain.com](https://crystalblockchain.com) |
-| Chainalysis Reactor | Professional blockchain investigation platform, industry standard for LE and compliance | Plateforme professionnelle d'investigation blockchain, standard industrie pour les forces de l'ordre et la conformité | Elliptic, Crystal | Paid | 🇺🇸 USA | [chainalysis.com](https://www.chainalysis.com) |
-| Elliptic | Enterprise blockchain analytics for financial institutions, AML/CFT compliance focus | Analyse blockchain pour les institutions financières, focus conformité AML/CFT | Chainalysis, Crystal | Paid | 🇬🇧 UK | [elliptic.co](https://www.elliptic.co) |
-
+| Crystal Blockchain | Blockchain transaction tracing and compliance risk scoring | Traçage des transactions blockchain et scoring de risque de conformité | Chainalysis, Elliptic, OXT | Paid | 🇺🇦 Ukraine | [crystalblockchain.com](https://crystalblockchain.com) |
+| Chainalysis Reactor | Professional blockchain investigation platform, industry standard for LE and compliance | Plateforme professionnelle d'investigation blockchain, standard industrie pour les forces de l'ordre et la conformité | Elliptic, Crystal, OXT | Paid | 🇺🇸 USA | [chainalysis.com](https://www.chainalysis.com) |
+| Elliptic | Enterprise blockchain analytics for financial institutions, AML/CFT compliance focus | Analyse blockchain pour les institutions financières, focus conformité AML/CFT | Chainalysis, Crystal, OXT | Paid | 🇬🇧 UK | [elliptic.co](https://www.elliptic.co) |
+| OXT.me | Bitcoin transaction graph analysis | Analyse de graphique des transaction de bitcoin | Chainalysis, Elliptic, Crystal | Free | 🇫🇷 France | [OXT.me](https://oxt.me) |
 ### Cross-Chain & DeFi Intelligence
 
 | Tool | Usage (English) | Usages (French) | Alternatives | 💰 | 🌍 | Link |

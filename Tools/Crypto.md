@@ -27,6 +27,7 @@
 | Chainalysis Reactor | Professional blockchain investigation platform, industry standard for LE and compliance | Plateforme professionnelle d'investigation blockchain, standard industrie pour les forces de l'ordre et la conformité | Elliptic, Crystal, OXT | Paid | 🇺🇸 USA | [chainalysis.com](https://www.chainalysis.com) |
 | Elliptic | Enterprise blockchain analytics for financial institutions, AML/CFT compliance focus | Analyse blockchain pour les institutions financières, focus conformité AML/CFT | Chainalysis, Crystal, OXT | Paid | 🇬🇧 UK | [elliptic.co](https://www.elliptic.co) |
 | OXT.me | Bitcoin transaction graph analysis | Analyse de graphique des transaction de bitcoin | Chainalysis, Elliptic, Crystal | Free | 🇫🇷 France | [OXT.me](https://oxt.me) |
+
 ### Cross-Chain & DeFi Intelligence
 
 | Tool | Usage (English) | Usages (French) | Alternatives | 💰 | 🌍 | Link |

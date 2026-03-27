@@ -22,8 +22,8 @@
 |------|----------------|-----------------|--------------|----|----|------|
 | FAA Aircraft Registry | US aircraft ownership and registration database — searchable by tail number or owner name | Base de données américaine des propriétaires et immatriculations d'aéronefs | EASA, national registries | Free | 🇺🇸 USA | [registry.faa.gov](https://registry.faa.gov) |
 | EASA | European Union Aviation Safety Agency — aircraft type certificates and safety data | Agence Européenne de la Sécurité Aérienne, certificats de type et données de sécurité | FAA, national registries | Free | 🇪🇺 Europe | [easa.europa.eu](https://www.easa.europa.eu) |
-| Rzjets | Aircraft ownership history and transaction records, strong on business aviation | Historique de propriété et transactions pour les aéronefs — fort en aviation d'affaires | JetPhotos, FAA Registry | Freemium | 🌐 International | [rzjets.net](https://rzjets.net) |
-| JetPhotos | Aircraft photo database, identify aircraft type, livery and physical characteristics | Base de données de photos d'aéronefs, identifier le type, la livrée et les caractéristiques physiques | Airliners.net | Free | 🌐 International | [jetphotos.com](https://www.jetphotos.com) |
+| Rzjets | Aircraft ownership history and transaction records, strong on business aviation | Historique de propriété et transactions pour les aéronefs, efficace pour les avions commerciaux | JetPhotos, FAA Registry | Freemium | 🌐 International | [rzjets.net](https://rzjets.net) |
+| JetPhotos | Aircraft photo database, identify aircraft type, livery and physical characteristics | Base de données de photos d'aéronefs, identifier le type, un logo et les caractéristiques physiques | Airliners.net | Free | 🌐 International | [jetphotos.com](https://www.jetphotos.com) |
 | OpenSanctions | Sanctions lists including aircraft and aviation companies | Listes de sanctions incluant les aéronefs et compagnies d'aviation | OFAC SDN | Free | 🇩🇪 Germany | [opensanctions.org](https://www.opensanctions.org) |
 | OpenCorporates | Identify shell companies owning aircraft — follow the corporate ownership chain | Identifier les sociétés écrans propriétaires d'aéronefs, suivre la chaîne de propriété | Orbis, national registries | Free | 🇬🇧 UK | [opencorporates.com](https://opencorporates.com) |
 
@@ -31,7 +31,7 @@
 
 ## 🔎 Methodology / Méthodologie
 
-**EN**
+🇬🇧
 1. Identify the aircraft, tail number (registration), ICAO hex code or flight number
 2. Track real-time and historical positions (FlightRadar24, ADS-B Exchange)
 3. For sensitive targets, always use ADS-B Exchange, it does not honor opt-out requests
@@ -42,7 +42,7 @@
 8. For gaps in ADS-B data, cross-check with satellite imagery and airport logs if accessible
 9. Document all findings with screenshots and timestamps
 
-**FR**
+🇫🇷
 1. Identifier l'aéronef, immatriculation, code hex ICAO ou numéro de vol
 2. Suivre les positions en temps réel et historiques (FlightRadar24, ADS-B Exchange)
 3. Pour les cibles sensibles, toujours utiliser ADS-B Exchange, il ne prend pas en compte les demandes de suppression
@@ -57,7 +57,7 @@
 
 ## 💡 Tips & Good Practices / Conseils
 
-**ENG**
+🇬🇧
 - ADS-B Exchange is critical for sensitive investigations, it does not honor opt-out requests unlike FlightRadar24
 - Private jets are frequently registered under shell companies, always dig into the ownership layers
 - The ICAO hex code is permanent and unique, use it as a stable identifier when tail numbers change
@@ -66,7 +66,7 @@
 - Sanctioned individuals frequently use private aviation to bypass commercial border controls
 - Cross-reference aviation investigations with maritime tracking, same evasion networks often use both
 
-**FR**
+🇫🇷
 - ADS-B Exchange est crucial pour les enquêtes sensibles, contrairement à FlightRadar24, il n’honore pas les demandes de retrait
 - Les jets privés sont souvent enregistrés via des sociétés écrans, il faut toujours analyser les différentes couches de propriété
 - Le code hexadécimal ICAO est permanent et unique, utilise-le comme identifiant stable lorsque les numéros de queue changent
@@ -80,7 +80,7 @@
 
 ## 🚩 Key Red Flags / Signaux d'alerte
 
-**ENG**
+🇬🇧
 | Red Flag | Possible Implication |
 |----------|---------------------|
 | Aircraft removed from commercial trackers | Deliberate concealment attempt |
@@ -89,7 +89,7 @@
 | Transponder disabled mid-flight | Active concealment |
 | Aircraft appears on sanctions lists | Direct sanctions exposure |
 
-**FR**
+🇫🇷
 | Signal d’alerte | Implication possible |
 | --------------- | -------------------- |
 | Avion retiré des trackers commerciaux | Tentative délibérée de dissimulation |

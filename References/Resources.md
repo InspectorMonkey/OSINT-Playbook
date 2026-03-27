@@ -7,7 +7,7 @@
 ## 📖 Essential Reading / Lecture essentielle
 
 | Resource | Type | Language | Link |
-|----------|------|----------|------|
+|----------|------|-----|------|
 | Bellingcat Guides | Tutorials & investigations | 🇬🇧 | [bellingcat.com](https://www.bellingcat.com/category/resources/) |
 | IntelTechniques Blog | Tools & methodology | 🇬🇧 | [inteltechniques.com](https://inteltechniques.com/blog/) |
 | The OSINT Curious Project | Community & writeups | 🇬🇧 | [osintcurio.us](https://osintcurio.us) |
